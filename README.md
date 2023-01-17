@@ -1,6 +1,6 @@
 ### 🤖 Tommy Suen - Mechatronics Student @ UWaterloo
 
-- 🔭 I’m currently working on a PCB for MicroBot to implement for physical Visual SLAM practice
+- 🔭 I’m currently working on a MicroBot PCB for a physical Visual SLAM implementation/practice
 - 🌱 I’m currently learning about Reinforcement Learning, Visual SLAM, Numerical Methods, and General Numerical Methods
 - 👯 I’m looking to collaborate on open-source code
 - 🤔 I’m looking for help with robotics, coding, and machine learning
